@@ -1,1 +1,36 @@
 /*your custom CSS here*/
+
+.heading{
+	background-image:url("../img/heading.jpg");
+	height: 500px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color:#2d00b3;
+}
+
+.heading h1{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	padding-top: 250px;
+}
+
+.main-content{
+	color: white;
+}
+
+.main-content  a{
+	color:white;
+} 
+
+body{
+	background-image:url("../img/metal.jpg");
+}
+
+.box img{
+	margin-top: 50px;
+	padding-left:0px;
+	width: 100%
+	
+}
